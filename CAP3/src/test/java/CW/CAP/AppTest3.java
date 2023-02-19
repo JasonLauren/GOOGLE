@@ -5,5 +5,9 @@ public class AppTest3 {
 	{
 		System.out.println(" dem method ");
 	}
+	public void m2()
+	{
+		System.out.println(" dem method ");
+	}
 
 }
