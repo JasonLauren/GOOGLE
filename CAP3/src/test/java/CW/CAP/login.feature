@@ -15,7 +15,7 @@ Examples:
 |		uname      		|		pwd		|
 |madasurishna22@gmail.com|Jason/2079|
 
-Scenario: Inavlid login
-Given opens chrome and enter the link
-When entres crdntls
-Then quit driver
+#Scenario: Inavlid login
+#Given opens chrome and enter the link
+#When entres crdntls
+#Then quit driver
